@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="underscoremone/android_kernel_samsung_trlte" path="kernel/samsung/trlte" remote="github" revision="cm-14.1" />
+  <project name="ripee/android_kernel_samsung_apq8084" path="kernel/samsung/apq8084" remote="github" revision="cm-14.1" />
   <project name="underscoremone/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="github" revision="cm-14.1" />
   <project name="lilferraro/android_device_samsung_trltespr" path="device/samsung/trltespr" remote="github" revision="cm-14.1" />
   <project name="fat-tire/android_device_samsung_trltetmo" path="device/samsung/trltetmo" remote="github" revision="cm-14.1" />
