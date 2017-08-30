@@ -12,5 +12,5 @@
   <project name="samsung-apq8084/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="github" revision="cm-14.1" />
   <project name="samsung-apq8084/android_device_samsung_trltetmo" path="device/samsung/trltetmo" remote="github" revision="cm-14.1" />
   <project name="samsung-apq8084/android_device_samsung_trltexx" path="device/samsung/trltexx" remote="github" revision="cm-14.1" />
-  <project name="samsung-apq8084/proprietary_vendor_samsung_trlte" path="vendor/samsung" remote="github" revision="cm-14.1" />
+  <project name="samsung-apq8084/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-14.1" />
 </manifest>
