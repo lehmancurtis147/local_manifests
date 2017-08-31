@@ -10,5 +10,5 @@
   <project name="ripee/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="github" revision="cm-14.1" />
   <project name="ripee/android_device_samsung_trltevzw" path="device/samsung/trltevzw" remote="github" revision="cm-14.1" />
   <project name="ripee/proprietary_vendor_samsung_trlte" path="vendor/samsung" remote="github" revision="cm-14.1" />
-  <project name="ripee/android_kernel_samsung_trlte" path="kernel/samsung/trlte" remote="github" revision="cm-14.1" />
+  <project name="underscoremone/android_kernel_samsung_trlte" path="kernel/samsung/trlte" remote="github" revision="cm-14.1" />
 </manifest>
