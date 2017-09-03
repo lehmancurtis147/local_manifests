@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="chirs241097/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="github" revision="cm-14.1" />
+  <project name="ripee/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="github" revision="cm-14.1" />
   <project name="chirs241097/android_device_samsung_trlteduoszh" path="device/samsung/trlteduoszh" remote="github" revision="cm-14.1" />
   <project name="chirs241097/android_kernel_samsung_trlteduoszh" path="kernel/samsung/trlteduoszh" remote="github" revision="master" />
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
