@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="chirs241097/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="github" revision="cm-14.1" />
-  <project name="chirs241097/android_device_samsung_trlteduoszh" path="device/samsung/trlteduoszh" remote="github" revision="cm-14.1" />
   <project name="chirs241097/android_kernel_samsung_trlte" path="kernel/samsung/trlte" remote="github" revision="master" />
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="cm-14.1" />
@@ -10,5 +9,6 @@
   <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1" />
+  <project name="ripee/android_device_samsung_trlteduoszh" path="device/samsung/trlteduoszh" remote="github" revision="cm-14.1" />
   <project name="ripee/proprietary_vendor_samsung_trlte" path="vendor/samsung" remote="github" revision="cm-14.1" />
 </manifest>
