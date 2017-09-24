@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <project name="LineageOS/android_hardware_ti_omap4" path="hardware/ti_omap4" remote="github" revison="cm-14.1" />
   <project name="ripee/android_device_amazon_jem" path="device/amazon/jem" remote="github" revison="cm-14.1" />
   <project name="transi/android_device_amazon_bowser-common" path="device/amazon/bowser-common" remote="github" revison="cm-14.1" />
   <project name="transi/android_device_amazon_omap4-common" path="device/amazon/omap4-common" remote="github" revison="cm-14.1" />
