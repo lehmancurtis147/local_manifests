@@ -10,5 +10,5 @@
   <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-14.1" />
-  <project name="remilia15/android_kernel_samsung_core33g" path="kernel/samsung/core33g" remote="github" revision="cm-14.1" />
+  <project name="underscoremone/android_kernel_samsung_gtexswifi" path="kernel/samsung/gtexswifi" remote="github" revision="cm-13.0" />
 </manifest>
