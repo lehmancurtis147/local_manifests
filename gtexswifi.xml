@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="gtexswifi/android_device_samsung_gtexswifi" path="device/samsung/gtexswifi" remote="github" revision="cm-14.1" />
+  <project name="gtexswifi/android_device_samsung_scx30g-common" path="device/samsung/scx30g-common" remote="github" revision="cm-14.1" />
+  <project name="gtexswifi/android_device_samsung_scx35-common" path="device/samsung/scx35-common" remote="github" revision="cm-14.1" />
+  <project name="gtexswifi/android_device_samsung_sprd-common" path="device/samsung/sprd-common" remote="github" revision="cm-14.1" />
+  <project name="gtexswifi/android_hardware_sprd" path="hardware/sprd" remote="github" revision="cm-14.1" />
+  <project name="gtexswifi/android_vendor_samsung_gtexswifi" path="vendor/samsung" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-14.1" />
+  <project name="remilia15/android_kernel_samsung_core33g" path="kernel/samsung/core33g" remote="github" revision="cm-14.1" />
+</manifest>
