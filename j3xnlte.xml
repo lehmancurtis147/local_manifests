@@ -3,8 +3,6 @@
   <project name="danijelj2001/device_j3xnlte_property_blobs" path="vendor/samsung" remote="github" revision="cm-14.1" />
   <project name="djeman/android_device_samsung_j3xnlte" path="device/samsung/j3xnlte" remote="github" revision="cm-14.1" />
   <project name="djeman/android_kernel_samsung_j3xnlte" path="kernel/samsung/j3xnlte" remote="github" revision="cm-14.1" />
-  <project name="djeman/android_vendor_samsung_common" path="vendor/samsung" remote="github" revision="cm-14.1" />
-  <project name="djeman/android_vendor_sprd" path="vendor/samsung" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_external_busybox" path="external/busybox" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
