@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <project name="danijelj2001/device_j3xnlte_property_blobs" path="vendor/samsung" remote="github" revision="cm-14.1" />
   <project name="djeman/android_device_samsung_j3xnlte" path="device/samsung/j3xnlte" remote="github" revision="cm-14.1" />
   <project name="djeman/android_kernel_samsung_j3xnlte" path="kernel/samsung/j3xnlte" remote="github" revision="cm-14.1" />
   <project name="djeman/android_vendor_samsung_common" path="vendor/samsung" remote="github" revision="cm-14.1" />
