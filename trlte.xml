@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="LineageOS/android_kernel_samsung_apq8084" path="kernel/samsung/apq8084" remote="github" revision="lineage-15.0" />
-  <project name="LineageOS/android_vendor_qcom_opensource_cryptfs_hw" path="vendor/qcom/opensource/cryptfs_hw" remote="github" revision="lineage-15.0" />
   <project name="ripee/twrp_android_device_samsung_trlte" path="device/samsung/trlte" remote="github" revision="android-8.0" />
 </manifest>
