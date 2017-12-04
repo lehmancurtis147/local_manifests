@@ -5,6 +5,6 @@
   <project name="alexander3244/android_device_amazon_bowser-common" path="device/amazon/bowser-common" remote="github" revision="cm-13.0" />
   <project name="alexander3244/android_device_amazon_omap4-common" path="device/amazon/omap4-common" remote="github" revison="cm-13.0" />
   <project name="alexander3244/android_device_amazon_tate" path="device/amazon/tate" remote="github" revision="cm-13.0" />
-  <project name="alexander3244/kernel_amazon_bowser-common" path="kernel/amazon/bowser-common" remote="github" revision="cm-13.0" />
+  <project name="transi/kernel_amazon_bowser-common" path="kernel/amazon/bowser-common" remote="github" revision="cm-14.1" />
   <project name="alexander3244/proprietary_vendor_amazon" path="vendor/amazon" remote="github" revision="cm-13.0" />
 </manifest>
