@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revison="cm-14.1" />
+  <project name="LineageOS/android_kernel_google_msm" path="kernel/google/msm" remote="github" revision="cm-14.1" />
+  <project name="transi/android_external_busybox" path="external/busybox" remote="github" revision="cm-14.1" />
+  <project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" remote="github" revision="android-8.0" />
+  <project name="ripee/android_device_asus_flo" path="device/asus/flo" remote="github" revision="cm-14.1" />
+  <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" remote="github" revision="cm-14.1" />
+</manifest>
