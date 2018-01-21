@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="TeamWin/android_device_samsung_serrano3gxx" path="device/samsung/serrano3gxx" remote="github" revision="android-7.1" />
+  <project name="TeamWin/android_device_samsung_serranodsdd" path="device/samsung/serranodsdd" remote="github" revision="android-7.1" />
+  <project name="TeamWin/android_device_samsung_serranoltexx" path="device/samsung/serranoltexx" remote="github" revision="android-7.1" />
+</manifest>

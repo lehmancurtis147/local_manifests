@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="TeamWin/android_device_samsung_trlte" path="device/samsung/trlte" remote="github" revision="android-7.1" />
+  <project name="TeamWin/android_device_samsung_trlteduos" path="device/samsung/trlteduos" remote="github" revision="android-7.1" />
+</manifest>
