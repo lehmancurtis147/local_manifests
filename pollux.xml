@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageOS/android_device_sony_pollux" path="device/sony/pollux" remote="github" revision="cm-14.1" />
+  <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" remote="github" revision="cm-14.1" />
+</manifest>
