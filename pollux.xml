@@ -3,7 +3,7 @@
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_device_sony_fusion3-common" path="device/sony/fusion3-common" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_device_sony_pollux" path="device/sony/pollux" remote="github" revision="cm-14.1" revision="cm-14.1" />
+  <project name="LineageOS/android_device_sony_pollux" path="device/sony/pollux" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_device_sony_pollux-common" path="device/sony/pollux-common" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-14.1" />
