@@ -4,7 +4,6 @@
   <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revison="lineage-15.1" />
   <project name="LineageOS/android_device_samsung_serrano-common" path="device/samsung/serrano-common" remote="github" revison="lineage-15.1" />
   <project name="LineageOS/android_device_samsung_serranoltexx" path="device/samsung/serranoltexx" remote="github" revison="lineage-15.1" />
-  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revison="lineage-15.1" />
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revison="lineage-15.1" />
   <project name="LineageOS/android_kernel_samsung_msm8930-common" path="kernel/samsung/msm8930-common" remote="github" revison="lineage-15.1" />
   <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" revison="lineage-15.1" />
