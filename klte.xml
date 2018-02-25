@@ -5,7 +5,6 @@
   <project name="LineageOS/android_device_samsung_klte-common" path="device/samsung/klte-common" remote="github" revison="lineage-15.1" />
   <project name="LineageOS/android_device_samsung_msm8974-common" path="device/samsung/msm8974-common" remote="github" revison="lineage-15.1" />
   <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revison="lineage-15.1" />
-  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revison="lineage-15.1" />
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revison="lineage-15.1" />
   <project name="LineageOS/android_kernel_samsung_msm8974" path="kernel/samsung/msm8974" remote="github" revison="lineage-15.1" />
   <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" revison="lineage-15.1" />
