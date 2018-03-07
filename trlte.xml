@@ -5,7 +5,7 @@
   <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="lineage-15.1" />		
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1" />		
   <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="lineage-15.1" />			
-  <project name="LineageOS/android_kernel_samsung_apq8084" path="kernel/samsung/apq8084" remote="github" revision="lineage-15.1" />	
+  <project name="micky387/kernel_test" path="kernel/samsung/apq8084" remote="github" revision="lineage-15.1" />	
   <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" revision="lineage-15.1" />		
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />		
   <project name="micky387/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="github" revision="lineage-15.1" />
