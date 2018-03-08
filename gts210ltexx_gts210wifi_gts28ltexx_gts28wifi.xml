@@ -11,5 +11,5 @@
   <project name="ripee/android_device_samsung_gts28ltexx" path="device/samsung/gts28ltexx" remote="github" revision="lineage-15.1" />
   <project name="ripee/android_device_samsung_gts28wifi" path="device/samsung/gts28wifi" remote="github" revision="lineage-15.1" />
   <project name="ripee/android_device_samsung_gts2-common" path="device/samsung/gts2-common" remote="github" revision="lineage-15.1" />
-  <project name="ripee/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-15.1" />
+  <project name="ripee/proprietary_vendor_samsung_gts2" path="vendor/samsung" remote="github" revision="lineage-15.1" />
 </manifest>
