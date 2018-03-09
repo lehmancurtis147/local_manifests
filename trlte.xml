@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <!-- <remove-project name="LineageOS/android_system_sepolicy" /> -->
-  <!-- <remote name="ripee" fetch="https://github.com/ripee/" /> -->
-  <!-- <project name="android_system_sepolicy" path="system/sepolicy" remote="ripee" revision="lineage-15.1" /> -->
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.1" />		
   <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="lineage-15.1" />			
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1" />		
