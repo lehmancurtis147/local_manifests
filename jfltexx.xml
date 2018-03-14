@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="TeamWin/android_device_samsung_jfltexx" path="device/samsung/jfltexx" remote="github" revision="android-7.1" />
+  <project name="ripee/android_device_samsung_jfltexx" path="device/samsung/jfltexx" remote="github" revision="android-7.1" />
 </manifest>
