@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remove-project name="LineageOS/android_device_qcom_sepolicy" />
-  <project name="ripee/android_device_qcom_sepolicy" path="device/qcom/sepolicy" remote="github" revision="lineage-15.1" />
-  
   <remove-project name="LineageOS/android_frameworks_av" />
   <project name="ripee/android_frameworks_av" path="frameworks/av" remote="github" revision="lineage-15.1" />
   
