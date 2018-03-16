@@ -3,6 +3,15 @@
   <remove-project name="LineageOS/android_device_qcom_sepolicy" />
   <project name="ripee/android_device_qcom_sepolicy" path="device/qcom/sepolicy" remote="github" revision="lineage-15.1" />
   
+  <remove-project name="LineageOS/android_frameworks_av" />
+  <project name="ripee/android_frameworks_av" path="frameworks/av" remote="github" revision="lineage-15.1" />
+  
+  <remove-project name="LineageOS/android_system_sepolicy" />
+  <project name="ripee/android_system_sepolicy" path="system/sepolicy" remote="github" revision="lineage-15.1" />
+  
+  <remove-project name="LineageOS/android_vendor_lineage" />
+  <project name="ripee/android_vendor_lineage" path="vendor/lineage" remote="github" revision="lineage-15.1" />
+  
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.1" />
   <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="lineage-15.1" />			
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1" />		
