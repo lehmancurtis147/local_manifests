@@ -11,5 +11,5 @@
   <project name="micky387/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="github" revision="lineage-15.1" />
   <project name="ripee/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-15.1" />
   <project name="samsung-apq8084/android_device_samsung_trlte" path="device/samsung/trlte" remote="github" revision="lineage-15.1" />
-  <project name="underscoremone/android_device_samsung_trlteduos" path="device/samsung/trlteduos" remote="github" revision="lineage-15.1" />
+  <project name="ripee/android_device_samsung_trlteduos" path="device/samsung/trlteduos" remote="github" revision="_mone" />
 </manifest>
