@@ -11,4 +11,6 @@
   <project name="samsung-apq8084/android_device_samsung_trlte" path="device/samsung/trlte" remote="github" revision="lineage-15.1" />  
   <project name="samsung-apq8084/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="github" revision="lineage-15.1" />
   <project name="samsung-apq8084/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-15.1" />
+  <remove-project name="LineageOS/android_vendor_lineage" />
+  <project name="ripee/android_vendor_lineage" path="vendor/lineage" remote="github" revision="lineage-15.1" />
 </manifest>
