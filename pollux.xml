@@ -9,6 +9,4 @@
   <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="lineage-15.1" />
   <project name="LineageOS/android_kernel_sony_apq8064" path="kernel/sony/apq8064" remote="github" revision="lineage-15.1" />
   <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" remote="github" revision="lineage-15.1" />
-  <remove-project name="LineageOS/android_vendor_lineage" />
-  <project name="ripee/android_vendor_lineage" path="vendor/lineage" remote="github" revision="lineage-15.1" />
 </manifest>
