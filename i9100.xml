@@ -8,4 +8,6 @@
   <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revison="lineage-15.1" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revison="lineage-15.1" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-15.1" />
+  <remove-project name="LineageOS/android_vendor_lineage" />
+  <project name="ripee/android_vendor_lineage" path="vendor/lineage" remote="github" revision="lineage-15.1" />
 </manifest>
