@@ -9,6 +9,4 @@
   <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="lineage-15.1" />
   <project name="LineageOS/android_kernel_samsung_gts2" path="kernel/samsung/gts2" remote="github" revision="lineage-15.1" />
   <project name="LineageOS/proprietary_vendor_samsung_gts2" path="vendor/samsung" remote="github" revision="lineage-15.1" />
-  <remove-project name="LineageOS/android_vendor_lineage" />
-  <project name="ripee/android_vendor_lineage" path="vendor/lineage" remote="github" revision="lineage-15.1" />
 </manifest>
