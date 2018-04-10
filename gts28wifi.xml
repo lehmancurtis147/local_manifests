@@ -5,9 +5,8 @@
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="lineage-15.1" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5433" path="hardware/samsung_slsi-cm/exynos5433" remote="github" revision="lineage-15.1" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="lineage-15.1" />
-  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
   <project name="sayedather/android_kernel_samsung_exynos5433" path="kernel/samsung/gts2" remote="github" revision="lineage-15.1" />
-  <project name="bonuzzz/android_device_samsung_gts28wifi" path="device/samsung/gts28wifi" remote="github" revision="lineage-15.1" />
+  <project name="sayedather/android_device_samsung_gts28wifi" path="device/samsung/gts28wifi" remote="github" revision="lineage-15.1" />
   <project name="bonuzzz/android_device_samsung_gts2-common" path="device/samsung/gts2-common" remote="github" revision="lineage-15.1" />
   <project name="ripee/proprietary_vendor_samsung_gts2" path="vendor/samsung" remote="github" revision="lineage-15.1" />
 </manifest>
