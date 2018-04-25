@@ -7,7 +7,6 @@
   <project name="LineageOS/android_hardware_sony_DASH" path="hardware/sony/DASH" remote="github" revision="lineage-15.1" />
   <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="lineage-15.1" />
   <project name="LineageOS/android_kernel_sony_apq8064" path="kernel/sony/apq8064" remote="github" revision="lineage-15.1" />
-  <project name="LineageOS/android_packages_resources_devicesetting" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
   <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" remote="github" revision="lineage-15.1" />
   <project name="zeelog/android_device_sony_pollux" path="device/sony/pollux" remote="github" revision="lineage-15.1" />
 </manifest>
