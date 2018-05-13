@@ -9,5 +9,5 @@
   <project name="LineageOS/android_kernel_samsung_jf" path="kernel/samsung/jf" remote="github" revision="lineage-15.1" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
   <project name="ripee/android_device_samsung_jf-common" path="device/samsung/jf-common" remote="github" revision="lineage-15.1" />
-  <project name="ripee/android_device_samsung_jflte" path="device/samsung/jflte" remote="github" revision="staging/lineage-15.1" />
+  <project name="ripee/android_device_samsung_jflte" path="device/samsung/jflte" remote="github" revision="lineage-15.1" />
 </manifest>
