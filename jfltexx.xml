@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remove-project name="LineageOS/android_device_qcom_sepolicy" />
-  <project name="AOSP-JF-MM/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="aosp-8.1" />
+  <project name="JDCTeam/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="jf-8.x-optcm" />
   <project name="jf-bringup/android_device_samsung_jfltexx" path="device/samsung/jfltexx" remote="github" revision="staging/lineage-15.1" />
   <project name="jf-bringup/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="lineage-15.1" />
   <project name="jf-bringup/android_device_qcom_sepolicy" path="device/qcom/sepolicy" remote="github" revision="lineage-15.1" />
