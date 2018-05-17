@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remove-project name="LineageOS/android_bionic" />
+  <remove-project name="LineageOS/android_build_soong" />
   <remove-project name="LineageOS/android_device_qcom_sepolicy" />
   <remove-project name="LineageOS/android_frameworks_av" />
   <remove-project name="LineageOS/android_frameworks_base" />
@@ -10,6 +11,7 @@
   <remove-project name="LineageOS/android_system_sepolicy" />
   <remove-project name="LineageOS/android_vendor_lineage" />
   <project name="JDCTeam/android_bionic" path="bionic" remote="github" revision="opt-cm-15.1" />
+  <project name="JDCTeam/android_build_soong" path="build/soong" remote="github" revision="opt-cm-15.1" />
   <project name="JDCTeam/android_frameworks_av" path="frameworks/av" remote="github" revision="opt-cm-15.1" />
   <project name="JDCTeam/android_frameworks_base" path="frameworks/base" remote="github" revision="opt-cm-15.1" />
   <project name="JDCTeam/android_frameworks_opt_telephony" path="frameworks/opt/telephony" remote="github" revision="opt-cm-15.1" />
