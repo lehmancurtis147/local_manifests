@@ -19,7 +19,7 @@
   <project name="JDCTeam/android_packages_apps_CarrierConfig" path="packages/apps/CarrierConfig" remote="github" revision="opt-cm-15.1" />
   <project name="JDCTeam/android_system_core" path="system/core" remote="github" revision="opt-cm-15.1" />
   <project name="JDCTeam/android_system_sepolicy" path="system/sepolicy" remote="github" revision="opt-cm-15.1" />
-  <project name="JDCTeam/android_vendor_lineage" path="vendor/lineage" remote="github" revision="jf-8.x-optcm" />
+  <project name="JDCTeam/android_vendor_lineage" path="vendor/lineage" remote="github" revision="opt-cm-15.1" />
   <project name="JDCTeam/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="jf-8.x-optcm" />
   <project name="jf-bringup/android_device_samsung_jfltexx" path="device/samsung/jfltexx" remote="github" revision="staging/lineage-15.1" />
   <project name="jf-bringup/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="lineage-15.1" />
