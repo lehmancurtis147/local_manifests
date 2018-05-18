@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="djeman/android_device_samsung_j3xnlte" path="device/samsung/j3xnlte" remote="github" revision="lineage-15.1" />
   <project name="djeman/android_kernel_samsung_j3xnlte" path="kernel/samsung/j3xnlte" remote="github" revision="lineage-15.1" />
   <project name="djeman/android_vendor_samsung_common" path="vendor/samsung/common" remote="github" revision="lineage-15.1" />
   <project name="djeman/android_vendor_sprd" path="vendor/sprd" remote="github" revision="lineage-15.1" />
   <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="lineage-15.1" />
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
+  <project name="ripee/android_device_samsung_j3xnlte" path="device/samsung/j3xnlte" remote="github" revision="lineage-15.1" />
 </manifest>
