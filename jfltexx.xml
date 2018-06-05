@@ -7,6 +7,7 @@
   <project name="JDCTeam/android_device_qcom_sepolicy" path="device/qcom/sepolicy" remote="github" revision="opt-cm-15.1" />
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.1" />
   <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="lineage-15.1" />
+  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="lineage-15.1" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
   <project name="ripee/android_device_samsung_jfltexx" path="device/samsung/jfltexx" remote="github" revision="lineage-15.1" />
   <project name="TeamNexus/android_hardware_samsung" path="hardware/samsung" remote="github" revision="nx-8.1-audio" />
